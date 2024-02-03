@@ -2,7 +2,7 @@
 
 ⚡ Fun facts:
 * I like playing guitar and making music.
-* I like everything plants. Houseplants, Gardening, Greenhouse automation, etc.
+* I like everything plants. Houseplants, Gardening, Greenhouse automation, etc. Plants are the future.
 * I'm all about being active, healthy, and fit.
 
 🌱 I’m currently learning React, Node.js, Next.js and Tailwind CSS

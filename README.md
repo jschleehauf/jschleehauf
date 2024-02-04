@@ -1,4 +1,4 @@
-# Hi, I'm Jarratt! 👋 Thanks for stopping by.
+# Hi, I'm Jarratt! 👋 Thanks for visiting.
 
 ⚡ Fun facts:
 * I like playing guitar and making music.
